@@ -1,0 +1,290 @@
+[
+  {
+    "id": "req-1792838997962-wtu2",
+    "studentId": "usr-student-1",
+    "syllabusId": "syl-1792838291696-vf3v",
+    "subjectName": "ctfgvybhnj",
+    "selectedUnits": [
+      "u-syl-1792838291696-vf3v-1"
+    ],
+    "selectedTopics": [],
+    "marks": 10,
+    "questionType": "Theory",
+    "difficulty": "Medium",
+    "questionCount": 5,
+    "importanceFilter": "All",
+    "isDemoGeneration": false,
+    "questions": [
+      {
+        "id": "q-1792838997962-1-h8ji",
+        "questionNumber": 1,
+        "questionText": "Critically analyze CS501\tSOFTWARE ENGINEERING within Foundational Topics & Core Concepts. Provide an end-to-end mathematical or procedural formulation along with a complete illustrative example.",
+        "marks": 10,
+        "questionType": "Theory",
+        "unitTitle": "Foundational Topics & Core Concepts",
+        "topicTitle": "CS501\tSOFTWARE ENGINEERING",
+        "difficulty": "Medium",
+        "predictedImportance": "High",
+        "starRating": 4,
+        "scorePercentage": 87,
+        "sourceSyllabusRef": "ctfgvybhnj — Unit 1: Foundational Topics & Core Concepts",
+        "rationale": "Central syllabus anchor topic; standard 10-mark essay and analytical derivation candidate. Derived strictly from syllabus topic \"CS501\tSOFTWARE ENGINEERING\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of CS501\tSOFTWARE ENGINEERING",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      },
+      {
+        "id": "q-1792838997962-2-swcr",
+        "questionNumber": 2,
+        "questionText": "Design a robust system or algorithmic pipeline utilizing COURSE OBJECTIVES. Detail data structures, control flow, edge-case mitigation, and time/space complexity analysis.",
+        "marks": 10,
+        "questionType": "Theory",
+        "unitTitle": "Foundational Topics & Core Concepts",
+        "topicTitle": "COURSE OBJECTIVES",
+        "difficulty": "Medium",
+        "predictedImportance": "High",
+        "starRating": 4,
+        "scorePercentage": 80,
+        "sourceSyllabusRef": "ctfgvybhnj — Unit 1: Foundational Topics & Core Concepts",
+        "rationale": "Synthesis problem testing design, coding logic, and complexity optimization. Derived strictly from syllabus topic \"COURSE OBJECTIVES\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of COURSE OBJECTIVES",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      },
+      {
+        "id": "q-1792838997962-3-o8gh",
+        "questionNumber": 3,
+        "questionText": "A production enterprise encounters performance degradation and scalability constraints related to Foundational Topics & Core Concepts. Formulate a comprehensive Case Study resolving this using The course aims to provide the students.",
+        "marks": 10,
+        "questionType": "Theory",
+        "unitTitle": "Foundational Topics & Core Concepts",
+        "topicTitle": "The course aims to provide the students",
+        "difficulty": "Medium",
+        "predictedImportance": "High",
+        "starRating": 4,
+        "scorePercentage": 79,
+        "sourceSyllabusRef": "ctfgvybhnj — Unit 1: Foundational Topics & Core Concepts",
+        "rationale": "Application-oriented scenario question testing higher-order Bloom taxonomy skills. Derived strictly from syllabus topic \"The course aims to provide the students\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of The course aims to provide the students",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      },
+      {
+        "id": "q-1792838997962-4-chjs",
+        "questionNumber": 4,
+        "questionText": "Critically analyze Understand the software life cycle models within Foundational Topics & Core Concepts. Provide an end-to-end mathematical or procedural formulation along with a complete illustrative example.",
+        "marks": 10,
+        "questionType": "Theory",
+        "unitTitle": "Foundational Topics & Core Concepts",
+        "topicTitle": "Understand the software life cycle models",
+        "difficulty": "Medium",
+        "predictedImportance": "Very High",
+        "starRating": 5,
+        "scorePercentage": 89,
+        "sourceSyllabusRef": "ctfgvybhnj — Unit 1: Foundational Topics & Core Concepts",
+        "rationale": "Central syllabus anchor topic; standard 10-mark essay and analytical derivation candidate. Derived strictly from syllabus topic \"Understand the software life cycle models\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of Understand the software life cycle models",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      },
+      {
+        "id": "q-1792838997962-5-wujy",
+        "questionNumber": 5,
+        "questionText": "Design a robust system or algorithmic pipeline utilizing Know the importance of the requirement analysis in software development process. Detail data structures, control flow, edge-case mitigation, and time/space complexity analysis.",
+        "marks": 10,
+        "questionType": "Theory",
+        "unitTitle": "Foundational Topics & Core Concepts",
+        "topicTitle": "Know the importance of the requirement analysis in software development process",
+        "difficulty": "Medium",
+        "predictedImportance": "Very High",
+        "starRating": 5,
+        "scorePercentage": 95,
+        "sourceSyllabusRef": "ctfgvybhnj — Unit 1: Foundational Topics & Core Concepts",
+        "rationale": "Synthesis problem testing design, coding logic, and complexity optimization. Derived strictly from syllabus topic \"Know the importance of the requirement analysis in software development process\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of Know the importance of the requirement analysis in software development process",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      }
+    ],
+    "createdAt": "2026-10-24T10:49:57.962Z"
+  },
+  {
+    "id": "req-1792838917296-pdps",
+    "studentId": "usr-teacher-1",
+    "syllabusId": "syl-1792838291696-vf3v",
+    "subjectName": "ctfgvybhnj",
+    "selectedUnits": [],
+    "selectedTopics": [],
+    "marks": 14,
+    "questionType": "Theory",
+    "difficulty": "Mixed",
+    "questionCount": 3,
+    "importanceFilter": "All",
+    "isDemoGeneration": false,
+    "questions": [
+      {
+        "id": "q-1792838917295-1-5ier",
+        "questionNumber": 1,
+        "questionText": "(a) Provide an exhaustive architectural exposition of CS501\tSOFTWARE ENGINEERING with comprehensive component diagrams (8 Marks).\n(b) Step-by-step derive the governing equations/algorithms, and demonstrate on a non-trivial benchmark scenario (8 Marks).",
+        "marks": 14,
+        "questionType": "Theory",
+        "unitTitle": "Foundational Topics & Core Concepts",
+        "topicTitle": "CS501\tSOFTWARE ENGINEERING",
+        "difficulty": "Hard",
+        "predictedImportance": "Very High",
+        "starRating": 5,
+        "scorePercentage": 88,
+        "sourceSyllabusRef": "ctfgvybhnj — Unit 1: Foundational Topics & Core Concepts",
+        "rationale": "Compulsory terminal examination 16-mark long question spanning theoretical formulation and applied derivation. Derived strictly from syllabus topic \"CS501\tSOFTWARE ENGINEERING\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of CS501\tSOFTWARE ENGINEERING",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      },
+      {
+        "id": "q-1792838917295-2-sqoj",
+        "questionNumber": 2,
+        "questionText": "Implement a full production-ready code implementation of COURSE OBJECTIVES. Discuss design patterns employed, exception handling, multithreading considerations, and benchmark against naive implementations.",
+        "marks": 14,
+        "questionType": "Theory",
+        "unitTitle": "Foundational Topics & Core Concepts",
+        "topicTitle": "COURSE OBJECTIVES",
+        "difficulty": "Hard",
+        "predictedImportance": "High",
+        "starRating": 4,
+        "scorePercentage": 80,
+        "sourceSyllabusRef": "ctfgvybhnj — Unit 1: Foundational Topics & Core Concepts",
+        "rationale": "Comprehensive implementation problem evaluating software craftsmanship and algorithmic soundness. Derived strictly from syllabus topic \"COURSE OBJECTIVES\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of COURSE OBJECTIVES",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      },
+      {
+        "id": "q-1792838917295-3-8tup",
+        "questionNumber": 3,
+        "questionText": "Formulate a formal mathematical proof and step-by-step numerical execution for The course aims to provide the students. Analyze boundary convergence, edge cases, and stability criteria under adverse inputs in Foundational Topics & Core Concepts.",
+        "marks": 14,
+        "questionType": "Theory",
+        "unitTitle": "Foundational Topics & Core Concepts",
+        "topicTitle": "The course aims to provide the students",
+        "difficulty": "Hard",
+        "predictedImportance": "High",
+        "starRating": 4,
+        "scorePercentage": 81,
+        "sourceSyllabusRef": "ctfgvybhnj — Unit 1: Foundational Topics & Core Concepts",
+        "rationale": "Rigorous quantitative and theoretical proof question typical of university terminal honors papers. Derived strictly from syllabus topic \"The course aims to provide the students\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of The course aims to provide the students",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      }
+    ],
+    "createdAt": "2026-10-24T10:48:37.296Z"
+  },
+  {
+    "id": "req-1792835133319-so85",
+    "studentId": "usr-student-1",
+    "syllabusId": "demo-ml-103",
+    "subjectName": "Machine Learning",
+    "selectedUnits": [
+      "ml-u2"
+    ],
+    "selectedTopics": [
+      "ml-t2-3"
+    ],
+    "marks": 10,
+    "questionType": "Theory",
+    "difficulty": "Hard",
+    "questionCount": 3,
+    "importanceFilter": "All",
+    "isDemoGeneration": true,
+    "questions": [
+      {
+        "id": "q-1792835133319-1-bq4u",
+        "questionNumber": 1,
+        "questionText": "Critically analyze Support Vector Machines (SVM) within Supervised Learning. Provide an end-to-end mathematical or procedural formulation along with a complete illustrative example.",
+        "marks": 10,
+        "questionType": "Theory",
+        "unitTitle": "Supervised Learning",
+        "topicTitle": "Support Vector Machines (SVM)",
+        "difficulty": "Hard",
+        "predictedImportance": "Very High",
+        "starRating": 5,
+        "scorePercentage": 95,
+        "sourceSyllabusRef": "Machine Learning — Unit 2: Supervised Learning",
+        "rationale": "Central syllabus anchor topic; standard 10-mark essay and analytical derivation candidate. Derived strictly from syllabus topic \"Support Vector Machines (SVM)\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of Support Vector Machines (SVM)",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      },
+      {
+        "id": "q-1792835133319-2-bja4",
+        "questionNumber": 2,
+        "questionText": "Design a robust system or algorithmic pipeline utilizing Support Vector Machines (SVM). Detail data structures, control flow, edge-case mitigation, and time/space complexity analysis.",
+        "marks": 10,
+        "questionType": "Theory",
+        "unitTitle": "Supervised Learning",
+        "topicTitle": "Support Vector Machines (SVM)",
+        "difficulty": "Hard",
+        "predictedImportance": "Very High",
+        "starRating": 5,
+        "scorePercentage": 96,
+        "sourceSyllabusRef": "Machine Learning — Unit 2: Supervised Learning",
+        "rationale": "Synthesis problem testing design, coding logic, and complexity optimization. Derived strictly from syllabus topic \"Support Vector Machines (SVM)\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of Support Vector Machines (SVM)",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      },
+      {
+        "id": "q-1792835133319-3-oj7q",
+        "questionNumber": 3,
+        "questionText": "A production enterprise encounters performance degradation and scalability constraints related to Supervised Learning. Formulate a comprehensive Case Study resolving this using Support Vector Machines (SVM).",
+        "marks": 10,
+        "questionType": "Theory",
+        "unitTitle": "Supervised Learning",
+        "topicTitle": "Support Vector Machines (SVM)",
+        "difficulty": "Hard",
+        "predictedImportance": "Very High",
+        "starRating": 5,
+        "scorePercentage": 94,
+        "sourceSyllabusRef": "Machine Learning — Unit 2: Supervised Learning",
+        "rationale": "Application-oriented scenario question testing higher-order Bloom taxonomy skills. Derived strictly from syllabus topic \"Support Vector Machines (SVM)\".",
+        "suggestedAnswerOutline": [
+          "Part 1: Formal definition and context of Support Vector Machines (SVM)",
+          "Part 2: Primary architectural breakdown / key governing steps",
+          "Part 3: Practical example or comparison diagram demonstrating application",
+          "Part 4: Concluding remarks on performance, trade-offs, and exam evaluation rubric"
+        ]
+      }
+    ],
+    "createdAt": "2026-10-24T09:45:33.319Z"
+  }
+]

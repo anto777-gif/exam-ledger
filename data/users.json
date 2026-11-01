@@ -1,0 +1,18 @@
+[
+  {
+    "id": "usr-teacher-1",
+    "name": "Prof. Alan Turing",
+    "email": "teacher@university.edu",
+    "role": "teacher",
+    "passwordHash": "$2b$10$zGzkk/ZTdRtuqlC0L1MFbOtmbwxFH9z7VCkzXOqo041FPNMZZ0enK",
+    "createdAt": "2026-10-24T09:45:20.676Z"
+  },
+  {
+    "id": "usr-student-1",
+    "name": "Ada Lovelace",
+    "email": "student@university.edu",
+    "role": "student",
+    "passwordHash": "$2b$10$Y0m.VlJHVX/usJN4GzyrEOlzTg9YV5tAMIu0rDdUm8ZnYIjlCJUgq",
+    "createdAt": "2026-10-24T09:45:20.676Z"
+  }
+]
