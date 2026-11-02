@@ -76,6 +76,14 @@ python -m uvicorn main:app --host 127.0.0.1 --port 8000 --reload
 ```
 Interactive Swagger API documentation is available at: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
 
+#### Docker & Docker Compose:
+To spin up both frontend and backend in isolated production containers:
+```bash
+docker compose up --build
+```
+- Frontend: [http://localhost:3000](http://localhost:3000)
+- Backend: [http://localhost:8000](http://localhost:8000) (Swagger: [http://localhost:8000/docs](http://localhost:8000/docs))
+
 ---
 
 ## 🔑 Pre-Seeded Demonstration Accounts
