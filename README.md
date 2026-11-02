@@ -61,17 +61,20 @@ cp .env.example .env.local
 *(Defaults in `.env.example` are pre-configured to work out of the box).*
 
 ### 4. Running the Application
-To run in development mode:
+
+#### Frontend (Next.js):
 ```bash
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) in your web browser.
 
-To run a production build:
+#### Dedicated Python Backend (FastAPI):
 ```bash
-npm run build
-npm run start
+cd backend
+pip install -r requirements.txt
+python -m uvicorn main:app --host 127.0.0.1 --port 8000 --reload
 ```
+Interactive Swagger API documentation is available at: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
 
 ---
 
